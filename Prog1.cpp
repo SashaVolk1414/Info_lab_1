@@ -34,7 +34,7 @@ int main()
     return 0;
 }
 */
-//Задача 2 
+//Задача  2 
 
 bool Proverka(int f) {
     if (f < 0) {
